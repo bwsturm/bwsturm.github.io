@@ -1,9 +1,9 @@
 ---
-layout: post
-title: You're up and running!
+layout: Post
+title: Project Benson
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Well, I survived my first week of the Metis Data Science Bootcamp in San Francisco.  It's definitely been a challenging week, especially due to my 1.5 hour commute from Pleasanton each way.  However, I know that I will learn many new skills over the next 12 weeks, which will be really interesting!      
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
