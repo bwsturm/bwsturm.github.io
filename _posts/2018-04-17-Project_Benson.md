@@ -3,8 +3,7 @@ layout: Post
 title: Project Benson
 ---
 
-Well, I survived my first week of the Metis Data Science Bootcamp in San Francisco.  It's definitely been a challenging week, especially due to my 1.5 hour commute from Pleasanton each way.  The good thing is that my instructors are really knowledgeable and super friendly as well as my cohort mates.  I'm very excited about all the things I will learn in the next 11 weeks.
+Well, I survived my first week of the Metis Data Science Bootcamp in San Francisco.  In our first week, we worked on Project Benson.  A description of the project along with some of our findings will be the subject of this blog post.  
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
